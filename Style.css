@@ -1,0 +1,35 @@
+body{
+   /* background-color: crimson;*/
+   background-image: url("Ayush.png");
+}
+h1{
+    color: aqua;
+    text-align: center;
+    font-size: large;
+}
+p.me{
+    display :none;
+    background-color: white;
+    padding: 20px;
+    font-size: larger;
+}
+div.me:hover p.me{
+    display: block;
+}
+
+p{
+    background-color: blue;
+    color : black;
+    padding :25px;
+    text-align: center;
+}
+div.k:hover p{
+    background-color : green;
+}
+a{
+    background-color: white;
+}
+a[target="_blank"]{
+    background-color: red;
+
+}

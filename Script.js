@@ -1,0 +1,1 @@
+document.write("Javascript is very important for makeing websites more attractive");
